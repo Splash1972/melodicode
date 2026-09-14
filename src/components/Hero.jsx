@@ -3,7 +3,7 @@ export default function Hero() {
         <section id="top" className="hero">
             <h1 className="hero__title">melodicode</h1>
             <p className="hero__tagline">
-                Cinematic scores and songs, written and produced for screen, stage, and speakers.
+                Cinematic/Hybrid scores and songs, written and produced for screen, stage, and speakers.
             </p>
             <svg className="hero__wave" viewBox="0 0 600 60" preserveAspectRatio="none" aria-hidden="true">
                 <path
