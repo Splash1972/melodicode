@@ -90,6 +90,22 @@ section {
   max-width: 800px;
 }
 
+.nav__brand {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  text-decoration: none;
+  color: var(--text);
+}
+
+.nav__icon {
+  height: 1em;
+  width: auto;
+  display: block;
+}
+
 .hero__title {
   font-family: var(--font-display);
   font-weight: 500;
